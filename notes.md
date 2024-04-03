@@ -16,5 +16,12 @@ translate(-50%, -50%) is often used to center an element both horizontally and v
 ### flex basis
 will take the % that we set 
 
+### :checked selector
+
+The :checked selector matches every checked <input> element (only for radio buttons and checkboxes) and <option> element.
+
+### 
+    flex-basis: 25%
+    
 
 
